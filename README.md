@@ -14,10 +14,10 @@ Hi. That's me [Florian Thiery](https://github.com/florianthiery) from Mainz, Ger
 
 # some popular repos
 
-* [ChronOntology Spatial API](https://github.com/i3mainz/chronontology-spatialapi)
-* [ChronOntology Webapp](https://github.com/dainst/chronontology-frontend)
-* [Labeling System API](https://github.com/mainzed/labelingsystem-server)
-* [Labeling System Webapp](https://github.com/mainzed/labelingsystem-client)
+* ChronOntology
+  * [ChronOntology Spatial API](https://github.com/i3mainz/chronontology-spatialapi)
+  * [ChronOntology Webapp](https://github.com/dainst/chronontology-frontend)
+* [Labeling System](https://github.com/search?q=topic%3Alabelingsystem+org%3Amainzed+fork%3Atrue)
 * [Masterthesis](https://github.com/florianthiery/Masterthesis-GeInArFa)
 
 *last update on 8/2017*
