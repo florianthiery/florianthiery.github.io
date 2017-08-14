@@ -6,10 +6,10 @@ Hi. That's me [Florian Thiery](https://github.com/florianthiery) from Mainz, Ger
 
 # "my" organizations
 
-* [i3mainz](https://github.com/i3mainz)
-* [RGZM](https://github.com/RGZM)
-* [mainzed](https://github.com/mainzed)
-* [dainst](https://github.com/dainst)
+* [i3mainz - Institut für Raumbezogene Informations- und Messtechnik](https://github.com/i3mainz)
+* [Römisch-Germanisches Zentralmuseum (RGZM)](https://github.com/RGZM)
+* [Mainzer Zentrum für Digitalität in den Geistes- und Kulturwissenschaften (mainzed)](https://github.com/mainzed)
+* [Deutsches Archäologisches Institut (DAI)](https://github.com/dainst)
 * [GammaNurds](https://github.com/GammaNurds)
 
 # some popular repos
@@ -20,4 +20,4 @@ Hi. That's me [Florian Thiery](https://github.com/florianthiery) from Mainz, Ger
 * [Labeling System Webapp](https://github.com/mainzed/labelingsystem-client)
 * [Masterthesis](https://github.com/florianthiery/Masterthesis-GeInArFa)
 
-*Last Update: August 2017*
+*last update on 8/2017*
