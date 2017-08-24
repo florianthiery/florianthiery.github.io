@@ -20,6 +20,12 @@ Hi. That's me [Florian Thiery](https://github.com/florianthiery) from Mainz, Ger
 * [Labeling System](https://github.com/search?q=topic%3Alabelingsystem+org%3Amainzed+fork%3Atrue)
 * [Masterthesis](https://github.com/florianthiery/Masterthesis-GeInArFa)
 
+# my gists
+
+* [Configurations for JAVA projects using Maven](https://gist.github.com/0f8c0c015555939c96eb13428bbf1cd4)
+* [maven dependencies](https://gist.github.com/6fccbc97389aadbb7c2dbe55fa66e4d4)
+* [Setup for Jersey 1.19.1 RESTful Interface in Netbeans](https://gist.github.com/58bba19a2c5824251cb5f81c302a9ae0)
+
 *last update on 8/2017*
 
 {% include footer.htm %}
